@@ -119,7 +119,7 @@ const Surprise = () => {
           <div className="absolute bottom-0 w-full h-80 bg-white md:rounded-[100%] rounded-none translate-y-24" />
           
           {/* Snow texture overlay */}
-          <div className="absolute bottom-0 w-full h-72 bg-gradient-to-b from-transparent to-blue-100/20 translate-y-24" />
+          <div className="absolute bottom-0 w-full h-72 bg-white translate-y-24" />
         </div>
       </div>
       
