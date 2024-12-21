@@ -134,7 +134,7 @@ const GreetingCard = ({ isOpen, onClose, receiverName }) => {
               </h2>
               <p 
                 className="text-xl text-gray-700 animate-reveal delay-500"
-                style={{ fontFamily: "'Delius Swash Caps', cursive" }}
+                style={{ fontFamily: "'Delius', cursive" }}
               >
                 I have this small gift for you, a cute {animalName}! {message}. {randomGiftMessage}
               </p>
